@@ -40,7 +40,7 @@ To run: ```python3 stress_test.py```
 
 ## Article Highlight
 
-The most common type of Layer 7 attacks is so-called HTTP floods, which send seemingly legitimate requests in too large numbers. They are particularly effective when they target resource-hungry elements of the web application, such as large file downloads or form submissions.
+The most common type of Layer 7 attacks is so-called HTTP floods, which send seemingly legitimate requests in too large numbers. They are particularly effective when they target resource-hungry elements of the web application, such as large file downloads or form submissions. [Read full article](https://security.syafiqhadzir.dev/2019/10/02/understanding-api-vulnerability.html).
 
 ![HTTP Flood Attack](https://security.syafiqhadzir.dev/assets/images/http-flood-attack.webp)
 
