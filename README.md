@@ -34,7 +34,7 @@ To run: ```python3 stress_test.py```
 
 ### Prerequisites
 
-- Python3 requests
+- Python3 requests (```pip install requests --user```)
 
 
 
